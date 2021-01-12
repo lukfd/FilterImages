@@ -1,4 +1,4 @@
-#Luca Comba and Evan Hanson, CISC 131 Week 10 Lab - Problem 1
+#Luca Comba
 from PIL import Image
 import sys
 import argparse
